@@ -10,7 +10,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 
  | Content      | Description
 ------------      | ------------
-*[read1](https://sondos-braim.github.io/reading-notes-401/read01)* | 
+*[read1](https://sondos-braim.github.io/reading-notes-401/read01)* | Big O notation
 *[read2](https://sondos-braim.github.io/reading-notes-401/read02)* |
 *[read3](https://sondos-braim.github.io/reading-notes-401/read03)* |
 *[read4](https://sondos-braim.github.io/reading-notes-401/read04)* |
