@@ -14,7 +14,8 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read2](https://sondos-braim.github.io/reading-notes-401/read02)* |Recursion
 *[read3](https://sondos-braim.github.io/reading-notes-401/read03)* |Files and Exceptions
 *[read4](https://sondos-braim.github.io/reading-notes-401/read04)* |classes and objects
-*[read5](https://sondos-braim.github.io/reading-notes-401/read05)* | 
+*[read5](https://sondos-braim.github.io/reading-notes-401/read05)* | Linked Lists
+
 *[read6](https://sondos-braim.github.io/reading-notes-401/read06)* | 
 *[read7](https://sondos-braim.github.io/reading-notes-401/read07)* |
 *[read8](https://sondos-braim.github.io/reading-notes-401/read08)* |
