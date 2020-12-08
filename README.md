@@ -18,7 +18,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read6](https://sondos-braim.github.io/reading-notes-401/read06)* | Random and Risks
 *[read7](https://sondos-braim.github.io/reading-notes-401/read07)* |Python Scope
 *[read8](https://sondos-braim.github.io/reading-notes-401/read08)* |List comprehension
-*[read9](https://sondos-braim.github.io/reading-notes-401/read09)* | 
+*[read9](https://sondos-braim.github.io/reading-notes-401/read09)* | dunder methods and ststistics
 *[read10](https://sondos-braim.github.io/reading-notes-401/read10)* | 
 *[read11](https://sondos-braim.github.io/reading-notes-401/read11)* | 
 *[read12](https://sondos-braim.github.io/reading-notes-401/read12)* | 
