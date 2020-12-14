@@ -22,7 +22,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read10](https://sondos-braim.github.io/reading-notes-401/read10)* | stacks and queques
 *[read11](https://sondos-braim.github.io/reading-notes-401/read11)* | Jupyter and numPy
 *[read12](https://sondos-braim.github.io/reading-notes-401/read12)* | Panda
-*[read13](https://sondos-braim.github.io/reading-notes-401/read13)* | 
+*[read13](https://sondos-braim.github.io/reading-notes-401/read13)* | Linear Regressions
 *[read14](https://sondos-braim.github.io/reading-notes-401/read14)* | 
 *[read15](https://sondos-braim.github.io/reading-notes-401/read15)* |
 
