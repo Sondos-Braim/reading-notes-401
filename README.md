@@ -23,8 +23,11 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read11](https://sondos-braim.github.io/reading-notes-401/read11)* | Jupyter and numPy
 *[read12](https://sondos-braim.github.io/reading-notes-401/read12)* | Panda
 *[read13](https://sondos-braim.github.io/reading-notes-401/read13)* | Linear Regressions
-*[read14](https://sondos-braim.github.io/reading-notes-401/read14)* | 
+*[read14](https://sondos-braim.github.io/reading-notes-401/read14)* | Data Visualization
 *[read15](https://sondos-braim.github.io/reading-notes-401/read15)* |
-
+*[read16](https://sondos-braim.github.io/reading-notes-401/read16)* |
+*[read17](https://sondos-braim.github.io/reading-notes-401/read17)* |
+*[read18](https://sondos-braim.github.io/reading-notes-401/read18)* |
+*[read19](https://sondos-braim.github.io/reading-notes-401/read19)* |
 
 [This is my GitHub Profile](https://github.com/Sondos-Braim) 
