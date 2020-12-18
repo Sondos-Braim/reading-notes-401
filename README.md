@@ -25,7 +25,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read13](https://sondos-braim.github.io/reading-notes-401/read13)* | Linear Regressions
 *[read14](https://sondos-braim.github.io/reading-notes-401/read14)* | Data Visualization
 *[read15](https://sondos-braim.github.io/reading-notes-401/read15)* |Trees
-*[read16](https://sondos-braim.github.io/reading-notes-401/read16)* |
+*[read16](https://sondos-braim.github.io/reading-notes-401/read16)* |Machine Learning
 *[read17](https://sondos-braim.github.io/reading-notes-401/read17)* |
 *[read18](https://sondos-braim.github.io/reading-notes-401/read18)* |
 *[read19](https://sondos-braim.github.io/reading-notes-401/read19)* |
