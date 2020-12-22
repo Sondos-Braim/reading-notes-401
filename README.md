@@ -28,6 +28,6 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read16](https://sondos-braim.github.io/reading-notes-401/read16)* |Machine Learning
 *[read17](https://sondos-braim.github.io/reading-notes-401/read17)* |Web scraping
 *[read18](https://sondos-braim.github.io/reading-notes-401/read18)* |Cryptography
-*[read19](https://sondos-braim.github.io/reading-notes-401/read19)* |
+*[read19](https://sondos-braim.github.io/reading-notes-401/read19)* |automation
 
 [This is my GitHub Profile](https://github.com/Sondos-Braim) 
