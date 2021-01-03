@@ -30,6 +30,8 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read18](https://sondos-braim.github.io/reading-notes-401/read18)* |Cryptography
 *[read19](https://sondos-braim.github.io/reading-notes-401/read19)* |regex
 *[read26](https://sondos-braim.github.io/reading-notes-401/read26)* |Django
+*[read27](https://sondos-braim.github.io/reading-notes-401/read27)* |Django
+
 
 
 [This is my GitHub Profile](https://github.com/Sondos-Braim) 
