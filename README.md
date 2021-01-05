@@ -32,6 +32,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read26](https://sondos-braim.github.io/reading-notes-401/read26)* |Django
 *[read27](https://sondos-braim.github.io/reading-notes-401/read27)* |Django Models
 *[read28](https://sondos-braim.github.io/reading-notes-401/read28)* |Django CRUD and Forms
+*[read29](https://sondos-braim.github.io/reading-notes-401/read29)* |Django Custom User
 
 
 
