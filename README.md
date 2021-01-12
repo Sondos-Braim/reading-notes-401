@@ -37,6 +37,8 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read31](https://sondos-braim.github.io/reading-notes-401/read31)* |Django REST Framework & Docker
 *[read32](https://sondos-braim.github.io/reading-notes-401/read32)* |Permissions
 *[read33](https://sondos-braim.github.io/reading-notes-401/read33)* |Authentication
+*[read34](https://sondos-braim.github.io/reading-notes-401/read34)* |API Deployment
+
 
 
 
