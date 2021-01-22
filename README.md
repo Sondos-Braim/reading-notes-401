@@ -41,8 +41,9 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read35](https://sondos-braim.github.io/reading-notes-401/read35)* |Graphs
 *[read36](https://sondos-braim.github.io/reading-notes-401/read36)* |Whiteboard Interview
 *[read37](https://sondos-braim.github.io/reading-notes-401/read37)* |React
-*[read38](https://sondos-braim.github.io/reading-notes-401/read38)* |React ||
-*[read39](https://sondos-braim.github.io/reading-notes-401/read39)* |React |||
+*[read38](https://sondos-braim.github.io/reading-notes-401/read38)* |React 
+*[read39](https://sondos-braim.github.io/reading-notes-401/read39)* |React 
+*[read40](https://sondos-braim.github.io/reading-notes-401/read40)* |React 
 
 
 
