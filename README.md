@@ -44,6 +44,8 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read38](https://sondos-braim.github.io/reading-notes-401/read38)* |React 
 *[read39](https://sondos-braim.github.io/reading-notes-401/read39)* |React 
 *[read40](https://sondos-braim.github.io/reading-notes-401/read40)* |React 
+*[read41](https://sondos-braim.github.io/reading-notes-401/read41)* |Ethics 
+
 
 
 
